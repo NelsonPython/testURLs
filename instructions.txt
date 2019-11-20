@@ -1,2 +1,0 @@
-python3 findCode.py
-saves code in foundCode.txt
