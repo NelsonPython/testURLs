@@ -25,7 +25,7 @@ Results are stored in foundCode.txt
 # Natural Language Analysis
 Run python3 NLPmarkdown.py
 
-The results will give insight into word used in the markdown
+The results will give insight into words used in the markdown
 
 ```
 NUMBER OF DOCUMENTS REVIEWED 217
