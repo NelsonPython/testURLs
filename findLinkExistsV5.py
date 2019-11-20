@@ -1,16 +1,16 @@
 '''
-find and follow all links in the documentation to find broken links
+find and follow all links in a markdown file to find broken links
 '''
 
 import os
 import re
 
 # SETUP TEST
-userFolder = "/home/iotahub/"
-githubFolder = "documentation"
+userFolder = "/home/$USERNAME/"
+githubFolder = ">REPO NAME<"
 fileList = "docsFiles.txt"
-rootURL = "https://docs.iota.org/docs"
-imageURL = "https://docs.iota.org/assets/docs"
+rootURL = "https://www.somewebsite.com/docs"
+imageURL = "https://www.somewebsite.com/assets/docs"
 printPass = False    # True: prints test results when the link is found (HTTP codes 200 or 403)
 results = "linkTestResults.txt"
 
