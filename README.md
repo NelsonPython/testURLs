@@ -6,9 +6,11 @@
 
 3. Open getDocsMap.py and change the repo name
 
+```
 testFolder = 'test/docsFolders.txt' # folders containing markdown files
 testFile = 'test/docsFiles.txt'     # a list of markdown files
 testDir = 'documentation/'          # repo name
+```
 
 4. Run getDocsMap.py
 
