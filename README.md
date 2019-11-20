@@ -9,7 +9,7 @@
 ```
 testFolder = 'test/docsFolders.txt' # folders containing markdown files
 testFile = 'test/docsFiles.txt'     # a list of markdown files
-testDir = 'documentation/'          # repo name
+testDir = '<REPO>/'          # repo name
 ```
 
 4. Run getDocsMap.py
