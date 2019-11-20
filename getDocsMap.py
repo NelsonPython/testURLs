@@ -1,17 +1,12 @@
 '''
-Read the documentation in a folder and get a list of subfolders and files
+Read the github repo folder and get a list of subfolders with markdown files
 '''
 
 import os
 
 testFolder = 'test/docsFolders.txt'
 testFile = 'test/docsFiles.txt'
-testDir = 'documentation/'
-
-
-#testFolder = "testNGG/docsFolder.txt"
-#testFile = "testNGG/docsFile.txt"
-#testDir = "AstroPiOTA"
+testDir = '<REPO>/'
 
 f = open(testFile,'w')
 ff = open(testFolder, 'w')
