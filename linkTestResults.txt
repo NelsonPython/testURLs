@@ -1,0 +1,225 @@
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/doc-index.md 
+ follow this link name:  Introduction/Overview 
+ to find this webpage:  https://docs.iota.org/docs/smartcity/0.1/introduction/overview
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/doc-index.md 
+ follow this link name:  AstroPiOTA/Overview 
+ to find this webpage:  https://docs.iota.org/docs/smartcity/0.1/astropiota/introduction/overview
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/doc-index.md 
+ follow this link name:  AstroPiOTA/Build AstroPiOTA 
+ to find this webpage:  https://docs.iota.org/docs/smartcity/0.1/astropiota/how-to-guides/build
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/doc-index.md 
+ follow this link name:  Install and run the software 
+ to find this webpage:  https://docs.iota.org/docs/smartcity/0.1/astropiota/how-to-guides/run
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/doc-index.md 
+ follow this link name:  Connect to AstroPiOTA over an SHH connection 
+ to find this webpage:  https://docs.iota.org/docs/smartcity/0.1/astropiota/how-to-guides/connect
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/doc-index.md 
+ follow this link name:  Customize AstroPiOTA 
+ to find this webpage:  https://docs.iota.org/docs/smartcity/0.1/astropiota/how-to-guides/customize
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/introduction/overview.md 
+ follow this link name:  AstroPiOTA 
+ to find this webpage:  https://docs.iota.org/docs/smartcity/0.1/astropiota/introduction/overview
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/how-to-guides/connect.md 
+ follow this link name:  Screen capture of shell script described in text 
+ to find this webpage:  https://docs.iota.org/assets/docs/smartcity/0.1/astropiota/RasSenseIP.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/how-to-guides/connect.md 
+ follow this link name:  Screen capture of crontab file update described in text 
+ to find this webpage:  https://docs.iota.org/assets/docs/smartcity/0.1/astropiota/RasCron.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/how-to-guides/run.md 
+ follow this link name:  Raspberry Pi configuration window as described in text 
+ to find this webpage:  https://docs.iota.org/assets/docs/smartcity/0.1/astropiota/Localisation.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/how-to-guides/run.md 
+ follow this link name:  Window for setting localisation as described in text 
+ to find this webpage:  https://docs.iota.org/assets/docs/smartcity/0.1/astropiota/localisation2.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/how-to-guides/run.md 
+ follow this link name:  Window for enabling SSH as described in text 
+ to find this webpage:  https://docs.iota.org/assets/docs/smartcity/0.1/astropiota/SSH.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/how-to-guides/run.md 
+ follow this link name:  Example output from sender.js 
+ to find this webpage:  https://docs.iota.org/assets/docs/smartcity/0.1/astropiota/AstroPiOTASender.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/how-to-guides/run.md 
+ follow this link name:  Example output from receiver.js 
+ to find this webpage:  https://docs.iota.org/assets/docs/smartcity/0.1/astropiota/AstroPiOTAReceiver.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/how-to-guides/build.md 
+ follow this link name:  Photo of Sense Hat that looks like a slightly smaller circuit board with LED light panel 
+ to find this webpage:  https://docs.iota.org/assets/docs/smartcity/0.1/astropiota/RasSenseHat.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/how-to-guides/build.md 
+ follow this link name:  Screen capture of crontab file update described in text 
+ to find this webpage:  https://docs.iota.org/assets/docs/smartcity/0.1/astropiota/RasSen2Ras.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/how-to-guides/build.md 
+ follow this link name:  Run AstroPiOTA 
+ to find this webpage:  https://docs.iota.org/docs/smartcity/0.1/astropiota/how-to-guides/run
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/introduction/overview.md 
+ follow this link name:  Build AstroPiOTA 
+ to find this webpage:  https://docs.iota.org/docs/smartcity/0.1/astropiota/how-to-guides/build
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/introduction/overview.md 
+ follow this link name:  Install the software and run it 
+ to find this webpage:  https://docs.iota.org/docs/smartcity/0.1/astropiota/how-to-guides/run
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/introduction/overview.md 
+ follow this link name:  Run using Headless mode 
+ to find this webpage:  https://docs.iota.org/docs/smartcity/0.1/astropiota/how-to-guides/connect
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/introduction/overview.md 
+ follow this link name:  Customize AstroPiOTA 
+ to find this webpage:  https://docs.iota.org/docs/smartcity/0.1/astropiota/how-to-guides/customize
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/smartcity/0.1/astropiota/introduction/overview.md 
+ follow this link name:  Sense Hat specifications 
+ to find this webpage:  https://docs.iota.org/docs/smartcity/0.1/astropiota/references/sensehat-specs
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/compass/0.1/README.md 
+ follow this link name:  About Compass 
+ to find this webpage:  https://docs.iota.org/docs/compass/0.1/concepts/about-compass
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/compass/0.1/README.md 
+ follow this link name:  Security considerations 
+ to find this webpage:  https://docs.iota.org/docs/compass/0.1/concepts/security-considerations
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/compass/0.1/README.md 
+ follow this link name:  Contribution guidelines 
+ to find this webpage:  https://docs.iota.org/docs/compass/0.1/references/contribution-guidelines
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/compass/0.1/how-to-guides/set-up-a-private-tangle.md 
+ follow this link name:  Single-node private Tangle 
+ to find this webpage:  https://docs.iota.org/docs/compass/0.1/images/single-node-tangle.svg
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/compass/0.1/how-to-guides/set-up-a-private-tangle.md 
+ follow this link name:  Multi-node private Tangle 
+ to find this webpage:  https://docs.iota.org/docs/compass/0.1/images/multi-node-tangle.svg
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/ciri/0.1/doc-index.md 
+ follow this link name:  Introduction/Overview 
+ to find this webpage:  https://docs.iota.org/docs/ciri/0.1/introduction/overview
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/ciri/0.1/doc-index.md 
+ follow this link name:  How-to Guides/Find neighbor IRI nodes 
+ to find this webpage:  https://docs.iota.org/docs/ciri/0.1/how-to-guides/run-a-ciri-node-on-an-sbc
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/ciri/0.1/doc-index.md 
+ follow this link name:  How-to Guides/Run an IRI node on a Linux server 
+ to find this webpage:  https://docs.iota.org/docs/ciri/0.1/how-to-guides/run-a-ciri-node-on-linux
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/ciri/0.1/doc-index.md 
+ follow this link name:  References/cIRI configuration options 
+ to find this webpage:  https://docs.iota.org/docs/ciri/0.1/references/ciri-configuration-options
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/ciri/0.1/doc-index.md 
+ follow this link name:  References/Trit encoding 
+ to find this webpage:  https://docs.iota.org/docs/ciri/0.1/references/trit-encoding
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/ciri/0.1/doc-index.md 
+ follow this link name:  References/Troubleshooting 
+ to find this webpage:  https://docs.iota.org/docs/ciri/0.1/references/troubleshooting
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/ciri/0.1/README.md 
+ follow this link name:  Overview 
+ to find this webpage:  https://docs.iota.org/docs/ciri/introduction/overview
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/ciri/0.1/how-to-guides/run-a-ciri-node-on-an-sbc.md 
+ follow this link name:  Run a cIRI node on Linux 
+ to find this webpage:  https://docs.iota.org/docs/ciri/0.1/how-to-guides/run-a-ciri-node-on-linux
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/contribution/0.1/style-guide.md 
+ follow this link name:  Tabbed Control 
+ to find this webpage:  https://docs.iota.org/assets/docs/contribution/images/tabbed-control.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/contribution/0.1/style-guide.md 
+ follow this link name:  Cards 
+ to find this webpage:  https://docs.iota.org/assets/docs/contribution/images/card.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/contribution/0.1/style-guide.md 
+ follow this link name:  Heading Label 
+ to find this webpage:  https://docs.iota.org/assets/docs/contribution/images/heading-label-primary.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/contribution/0.1/style-guide.md 
+ follow this link name:  Heading Label 
+ to find this webpage:  https://docs.iota.org/assets/docs/contribution/images/heading-label-secondary.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/contribution/0.1/style-guide.md 
+ follow this link name:  Project Topics 
+ to find this webpage:  https://docs.iota.org/assets/docs/contribution/images/project-topics.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/contribution/0.1/style-guide.md 
+ follow this link name:  Emojis 
+ to find this webpage:  https://docs.iota.org/assets/docs/contribution/images/emojis.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/contribution/0.1/style-guide.md 
+ follow this link name:  Google Maps for IOTA 
+ to find this webpage:  https://docs.iota.org/assets/docs/contribution/images/maps.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/contribution/0.1/style-guide.md 
+ follow this link name:  Event Feed 
+ to find this webpage:  https://docs.iota.org/assets/docs/contribution/images/feed.png
+HTTP Error 404: Not Found
+
+Read this markdown file:  /home/iotahub/documentation/contribution/0.1/style-guide.md 
+ follow this link name:  Message Boxes 
+ to find this webpage:  https://docs.iota.org/assets/docs/contribution/images/message-boxes.png
+HTTP Error 404: Not Found
+Number of links tested:  707
+Number of links found:  663
+Number of HTTP 404 Not Found:  44
+Number of URL errors:  0
+Number of other errors:  0
