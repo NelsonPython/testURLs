@@ -1,4 +1,4 @@
-'''
+```
 class MyHub {
   constructor(seed) {
     this.seed = seed;
@@ -285,4 +285,4 @@ async moveFromReceivingToInput(address) {
   });
 }
 
-'''
+```
