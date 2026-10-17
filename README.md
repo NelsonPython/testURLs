@@ -2,7 +2,7 @@
 
 1. Clone a repo with markdown files
 
-2. By default, getDocsMap.py writes output files to the /test folder.  Create a /test folder
+2. Create a /test folder. By default, getDocsMap.py writes output files to the /test folder.
 
 3. Open getDocsMap.py and change the repo name
 
