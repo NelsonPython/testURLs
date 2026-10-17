@@ -2,7 +2,7 @@
 
 1. Clone a repo with markdown files
 
-2. Create a /test folder. By default, getDocsMap.py writes output files to the /test folder.
+2. Create a test/ folder. By default, getDocsMap.py writes output files to the test/ folder.
 
 3. Open getDocsMap.py and change the repo name
 
@@ -14,7 +14,7 @@ testDir = '<REPO>/'          # repo name
 
 4. Run getDocsMap.py
 
-5. Go to the /test folder
+5. Go to the test/ folder
 
 6. Run ```python3 findCode.py``` to find code snippets encoded with ```
 Results are stored in foundCode.txt
