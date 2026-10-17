@@ -23,6 +23,8 @@ Results are stored in foundCode.txt
 
 
 # Natural Language Analysis
+In addition to finding broken links, you can gain insight into the theme of the markdown by finding the most commonly used words.
+
 Run python3 NLPmarkdown.py
 
 The results will give insight into words used in the markdown
